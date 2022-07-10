@@ -1,0 +1,220 @@
+2022-07-08 19:42:55 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 10880 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:42:55 - No active profile set, falling back to default profiles: default
+2022-07-08 19:42:55 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-08 19:42:55 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-08 19:42:57 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:42:57 - Finished Spring Data repository scanning in 135 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:42:58 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:42:58 - Starting service [Tomcat]
+2022-07-08 19:42:58 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:42:59 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:42:59 - Root WebApplicationContext: initialization completed in 3523 ms
+2022-07-08 19:42:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:42:59 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-08 19:42:59 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-08 19:43:00 - HikariPool-1 - Starting...
+2022-07-08 19:43:00 - HikariPool-1 - Start completed.
+2022-07-08 19:43:00 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:43:02 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:43:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:43:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:43:04 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:43:04 - LiveReload server is running on port 35729
+2022-07-08 19:43:05 - Tomcat started on port(s): 8811 (http) with context path ''
+2022-07-08 19:43:05 - Context refreshed
+2022-07-08 19:43:05 - Found 1 custom documentation plugin(s)
+2022-07-08 19:43:05 - Scanning for api listing references
+2022-07-08 19:43:05 - Started SpringDemoAppApplication in 10.87 seconds (JVM running for 12.714)
+2022-07-08 19:46:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:46:13 - HikariPool-1 - Shutdown initiated...
+2022-07-08 19:46:13 - HikariPool-1 - Shutdown completed.
+2022-07-08 19:46:13 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 10880 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:46:13 - No active profile set, falling back to default profiles: default
+2022-07-08 19:46:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:46:13 - Finished Spring Data repository scanning in 12 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:46:13 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:46:13 - Starting service [Tomcat]
+2022-07-08 19:46:13 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:46:13 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:46:13 - Root WebApplicationContext: initialization completed in 440 ms
+2022-07-08 19:46:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:46:13 - HikariPool-2 - Starting...
+2022-07-08 19:46:13 - HikariPool-2 - Start completed.
+2022-07-08 19:46:13 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:46:14 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:46:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:46:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:46:14 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:46:14 - LiveReload server is running on port 35729
+2022-07-08 19:46:14 - Tomcat started on port(s): 8811 (http) with context path ''
+2022-07-08 19:46:14 - Context refreshed
+2022-07-08 19:46:14 - Found 1 custom documentation plugin(s)
+2022-07-08 19:46:14 - Scanning for api listing references
+2022-07-08 19:46:14 - Started SpringDemoAppApplication in 1.654 seconds (JVM running for 202.058)
+2022-07-08 19:46:14 - Condition evaluation unchanged
+2022-07-08 19:52:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:52:06 - HikariPool-2 - Shutdown initiated...
+2022-07-08 19:52:06 - HikariPool-2 - Shutdown completed.
+2022-07-08 19:52:06 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 10880 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:52:06 - No active profile set, falling back to default profiles: default
+2022-07-08 19:52:06 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:52:06 - Finished Spring Data repository scanning in 13 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:52:07 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:52:07 - Starting service [Tomcat]
+2022-07-08 19:52:07 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:52:07 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:52:07 - Root WebApplicationContext: initialization completed in 524 ms
+2022-07-08 19:52:07 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:52:07 - HikariPool-3 - Starting...
+2022-07-08 19:52:07 - HikariPool-3 - Start completed.
+2022-07-08 19:52:07 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:52:07 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:52:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:52:07 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:52:07 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:52:07 - LiveReload server is running on port 35729
+2022-07-08 19:52:08 - Tomcat started on port(s): 8811 (http) with context path ''
+2022-07-08 19:52:08 - Context refreshed
+2022-07-08 19:52:08 - Found 1 custom documentation plugin(s)
+2022-07-08 19:52:08 - Scanning for api listing references
+2022-07-08 19:52:08 - Started SpringDemoAppApplication in 1.576 seconds (JVM running for 555.238)
+2022-07-08 19:52:08 - Condition evaluation unchanged
+2022-07-08 19:53:20 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:53:20 - HikariPool-3 - Shutdown initiated...
+2022-07-08 19:53:20 - HikariPool-3 - Shutdown completed.
+2022-07-08 19:53:20 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 10880 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:53:20 - No active profile set, falling back to default profiles: default
+2022-07-08 19:53:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:53:21 - Finished Spring Data repository scanning in 11 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:53:21 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:53:21 - Starting service [Tomcat]
+2022-07-08 19:53:21 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:53:21 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:53:21 - Root WebApplicationContext: initialization completed in 427 ms
+2022-07-08 19:53:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:53:21 - HikariPool-4 - Starting...
+2022-07-08 19:53:21 - HikariPool-4 - Start completed.
+2022-07-08 19:53:21 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:53:21 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:53:21 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:53:22 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:53:22 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:53:22 - LiveReload server is running on port 35729
+2022-07-08 19:53:22 - Tomcat started on port(s): 8811 (http) with context path ''
+2022-07-08 19:53:22 - Context refreshed
+2022-07-08 19:53:22 - Found 1 custom documentation plugin(s)
+2022-07-08 19:53:22 - Scanning for api listing references
+2022-07-08 19:53:22 - Started SpringDemoAppApplication in 1.513 seconds (JVM running for 629.501)
+2022-07-08 19:53:22 - Condition evaluation unchanged
+2022-07-08 19:53:33 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 15732 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:53:33 - No active profile set, falling back to default profiles: default
+2022-07-08 19:53:33 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-08 19:53:33 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-08 19:53:34 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:53:34 - Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:53:34 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:53:34 - Starting service [Tomcat]
+2022-07-08 19:53:34 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:53:34 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:53:34 - Root WebApplicationContext: initialization completed in 1820 ms
+2022-07-08 19:53:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:53:35 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-08 19:53:35 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-08 19:53:35 - HikariPool-1 - Starting...
+2022-07-08 19:53:35 - HikariPool-1 - Start completed.
+2022-07-08 19:53:35 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:53:37 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:53:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:53:37 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:53:38 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:53:38 - Unable to start LiveReload server
+2022-07-08 19:53:38 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8811 is already in use
+2022-07-08 19:53:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:53:38 - HikariPool-1 - Shutdown initiated...
+2022-07-08 19:53:38 - HikariPool-1 - Shutdown completed.
+2022-07-08 19:53:38 - Stopping service [Tomcat]
+2022-07-08 19:53:38 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-08 19:53:38 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8811 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8811 or configure this application to listen on another port.
+
+2022-07-08 19:53:49 - Application shutdown requested.
+2022-07-08 19:53:49 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:53:49 - HikariPool-4 - Shutdown initiated...
+2022-07-08 19:53:49 - HikariPool-4 - Shutdown completed.
+2022-07-08 19:54:26 - Starting SpringDemoAppApplication using Java 17.0.3 on DESKTOP-4OC91JI with PID 4652 (C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp\target\classes started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 19:54:26 - No active profile set, falling back to default profiles: default
+2022-07-08 19:54:26 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-08 19:54:26 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-08 19:54:27 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 19:54:27 - Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+2022-07-08 19:54:28 - Tomcat initialized with port(s): 8811 (http)
+2022-07-08 19:54:28 - Starting service [Tomcat]
+2022-07-08 19:54:28 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-08 19:54:28 - Initializing Spring embedded WebApplicationContext
+2022-07-08 19:54:28 - Root WebApplicationContext: initialization completed in 1988 ms
+2022-07-08 19:54:28 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 19:54:28 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-08 19:54:28 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-08 19:54:28 - HikariPool-1 - Starting...
+2022-07-08 19:54:29 - HikariPool-1 - Start completed.
+2022-07-08 19:54:29 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 19:54:30 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 19:54:30 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 19:54:31 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 19:54:31 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 19:54:31 - LiveReload server is running on port 35729
+2022-07-08 19:54:31 - Tomcat started on port(s): 8811 (http) with context path ''
+2022-07-08 19:54:31 - Context refreshed
+2022-07-08 19:54:31 - Found 1 custom documentation plugin(s)
+2022-07-08 19:54:31 - Scanning for api listing references
+2022-07-08 19:54:32 - Started SpringDemoAppApplication in 6.257 seconds (JVM running for 7.191)
+2022-07-08 19:55:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-08 19:55:22 - Initializing Servlet 'dispatcherServlet'
+2022-07-08 19:55:22 - Completed initialization in 4 ms
+2022-07-08 19:59:31 - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.capgemini.sprint.model.College com.capgemini.sprint.controller.ICollegeController.addCollege(com.capgemini.sprint.model.College) throws com.capgemini.sprint.exception.CollegeCreationException: [Field error in object 'college' on field 'collegeRegId': rejected value [0]; codes [Range.college.collegeRegId,Range.collegeRegId,Range.int,Range]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [college.collegeRegId,collegeRegId]; arguments []; default message [collegeRegId],9223372036854775807,1]; default message [must be between 1 and 9223372036854775807]] ]
+2022-07-08 20:00:38 - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.capgemini.sprint.model.College com.capgemini.sprint.controller.ICollegeController.addCollege(com.capgemini.sprint.model.College) throws com.capgemini.sprint.exception.CollegeCreationException: [Field error in object 'college' on field 'collegeName': rejected value []; codes [NotBlank.college.collegeName,NotBlank.collegeName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [college.collegeName,collegeName]; arguments []; default message [collegeName]]; default message [College name cannot be blank]] ]
+2022-07-08 20:32:07 - Starting SpringDemoAppApplicationTest using Java 17.0.3 on DESKTOP-4OC91JI with PID 16088 (started by Gargi in C:\Users\Gargi\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\SpringDemoApp)
+2022-07-08 20:32:07 - No active profile set, falling back to default profiles: default
+2022-07-08 20:32:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-08 20:32:08 - Finished Spring Data repository scanning in 104 ms. Found 1 JPA repository interfaces.
+2022-07-08 20:32:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-08 20:32:09 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-08 20:32:10 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-08 20:32:10 - HikariPool-1 - Starting...
+2022-07-08 20:32:10 - HikariPool-1 - Start completed.
+2022-07-08 20:32:10 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-08 20:32:12 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-08 20:32:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 20:32:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-08 20:32:14 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-08 20:32:15 - Context refreshed
+2022-07-08 20:32:15 - Found 1 custom documentation plugin(s)
+2022-07-08 20:32:15 - Scanning for api listing references
+2022-07-08 20:32:15 - Started SpringDemoAppApplicationTest in 9.32 seconds (JVM running for 11.54)
+2022-07-08 20:32:17 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.capgemini.sprint.SpringDemoAppApplicationTests], using SpringBootContextLoader
+2022-07-08 20:32:17 - Could not detect default resource locations for test class [com.capgemini.sprint.SpringDemoAppApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-07-08 20:32:17 - Could not detect default configuration classes for test class [com.capgemini.sprint.SpringDemoAppApplicationTests]: SpringDemoAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-07-08 20:32:17 - Found @SpringBootConfiguration com.capgemini.sprint.SpringDemoAppApplication for test class com.capgemini.sprint.SpringDemoAppApplicationTests
+2022-07-08 20:32:17 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-07-08 20:32:17 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@ebcf6c0, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@438fcca3, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@41c7ef69, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@15e86d24, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7c0b83af, org.springframework.test.context.support.DirtiesContextTestExecutionListener@415cb259, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3f1eb1bc, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@69497a36, org.springframework.test.context.event.EventPublishingTestExecutionListener@497f8a4b, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6d952747, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@27ccf818, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@5f6ae1d, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@30ee413a, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@7405e77f, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@3449cddf]
+2022-07-08 20:32:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 20:32:17 - HikariPool-1 - Shutdown initiated...
+2022-07-08 20:32:17 - HikariPool-1 - Shutdown completed.
+2022-07-08 20:39:44 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m51s810ms546µs300ns).
+2022-07-08 21:38:42 - Application shutdown requested.
+2022-07-08 21:38:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-08 21:38:42 - HikariPool-1 - Shutdown initiated...
+2022-07-08 21:38:42 - HikariPool-1 - Shutdown completed.
